@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/build/intermediates/data-binding-layout-in/debug/layout/activity_main.xml",
+        "source": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/build/intermediates/data-binding-layout-in/debug/layout/fragment_d.xml",
+        "source": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/src/main/res/layout/fragment_d.xml"
+    },
+    {
+        "merged": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/build/intermediates/data-binding-layout-in/debug/layout/fragment_a.xml",
+        "source": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/src/main/res/layout/fragment_a.xml"
+    },
+    {
+        "merged": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/build/intermediates/data-binding-layout-in/debug/layout/fragment_c.xml",
+        "source": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/src/main/res/layout/fragment_c.xml"
+    },
+    {
+        "merged": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/build/intermediates/data-binding-layout-in/debug/layout/fragment_home.xml",
+        "source": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/build/intermediates/data-binding-layout-in/debug/layout/fragment_b.xml",
+        "source": "/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/src/main/res/layout/fragment_b.xml"
+    }
+]

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentOrganizer</string>
+    <string name="fragment_home">Home</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="fragment_c">Fragment C with Bundle</string>
+    <string name="fragment_d">Fragment D</string>
+</resources>

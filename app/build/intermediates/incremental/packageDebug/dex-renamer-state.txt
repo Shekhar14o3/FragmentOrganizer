@@ -1,0 +1,4 @@
+#Fri Jul 14 15:59:17 IST 2017
+base.0=/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/aman/Documents/Projects/projects_Live/FragmentOrganizer/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
